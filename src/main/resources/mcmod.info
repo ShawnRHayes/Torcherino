@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Torcherino",
+  "name": "Torcherino",
+  "description": "Simple mod that adds OP torches.",
+  "version": "0.1c",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Moze_Intel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
